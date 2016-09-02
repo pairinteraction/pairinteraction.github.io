@@ -1,6 +1,6 @@
 {
   "name": "Pairinteraction",
-  "tagline": "",
-  "body": "### pairinteraction\r\n\r\nThe pairinteraction software calculates pair potential for Rydberg\r\natoms in external fields.",
+  "tagline": "A Rydberg Interaction Calculator",
+  "body": "### Main Features\r\n\r\nThe pairinteraction software calculates pair potentials for Rydberg atoms in external fields.  It supports a lot of neat features, the major of which are listed below:\r\n\r\n- Automatic selection rules\r\n- Stark and Zeeman maps for single atom states\r\n- Variable interatomic axis\r\n- Numerical and analytical methods for radial matrix elements\r\n- Multipole expansion to **arbitrary order**!\r\n\r\nSome other convenient (non-physical) features are\r\n\r\n- Automatic fit for C<sub>3</sub> and C<sub>6</sub> coefficients\r\n- MATLAB compatible data export\r\n- Publication ready plots with PDF export\r\n\r\n### Screenshot\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
