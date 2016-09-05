@@ -542,7 +542,15 @@ aside a.button {
   padding-left: 64px;
   margin-bottom: 20px;
   font-size: 21px;
+}
+.download {
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
+}
+.signup {
+  background: transparent url(../images/signup-button.png) 0 0 no-repeat;
+}
+.document {
+  background: transparent url(../images/document-button.png) 0 0 no-repeat;
 }
 
 code, pre {
