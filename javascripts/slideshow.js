@@ -15,6 +15,6 @@ var slideshow = {
         for (var i = 0; i < slides.length; i++) {
             slides[i].style.display = "none"; 
         }
-        slides[this.idx].style.display = "block"; 
+        slides[this.idx].style.display = "block";
     }
 }
