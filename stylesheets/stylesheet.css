@@ -639,6 +639,11 @@ form {
     border-radius: 2px;
 }
 
+.slide-text a {
+    color: #fafafa;
+    text-decoration: underline;
+}
+
 .slideshow-btn {
     display: inline-block;
     position: absolute;
